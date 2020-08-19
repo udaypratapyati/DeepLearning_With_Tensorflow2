@@ -5,3 +5,10 @@
   - Be able to build, train and apply fully connected deep neural networks 
   - Know how to implement efficient (vectorized) neural networks 
   - Understand the key parameters in a neural network's architecture
+
+- [02.Improving Deep Neural Networks And Structuring Machine Learning]()
+	- Understand industry best-practices for building deep learning applications. 
+	- Eeffectively use the common neural network "tricks", including initialization, L2 and dropout regularization, Batch normalization, gradient checking, 
+	- Implement and apply a variety of optimization algorithms, such as mini-batch gradient descent, Momentum, RMSprop and Adam, and check for their convergence. 
+	- Understand new best-practices for the deep learning era of how to set up train/dev/test sets and analyze bias/variance
+	- Implement a neural network in TensorFlow. 
