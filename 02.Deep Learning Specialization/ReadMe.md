@@ -12,3 +12,8 @@
 	- Implement and apply a variety of optimization algorithms, such as mini-batch gradient descent, Momentum, RMSprop and Adam, and check for their convergence. 
 	- Understand new best-practices for the deep learning era of how to set up train/dev/test sets and analyze bias/variance.
 	- Implement a neural network in TensorFlow.
+- [03.Convolutional Neural Networks](https://github.com/udaypratapyati/DeepLearning_With_Tensorflow2/tree/master/02.Deep%20Learning%20Specialization/03.Convolutional%20Neural%20Networks)
+	- Build a convolutional neural network, including recent variations such as residual networks.
+	- Apply convolutional networks to visual detection and recognition tasks.
+	- Use neural style transfer to generate art.
+	- Apply these algorithms to a variety of image, video, and other 2D or 3D data.
