@@ -17,7 +17,7 @@
 	- Apply convolutional networks to visual detection and recognition tasks.
 	- Use neural style transfer to generate art.
 	- Apply these algorithms to a variety of image, video, and other 2D or 3D data.
-- [04.Sequence Models]	
+- [04.Sequence Models](https://github.com/udaypratapyati/DeepLearning_With_Tensorflow2/tree/master/02.Deep%20Learning%20Specialization/04.Sequence%20Models/Week12)
 	- Build and train Recurrent Neural Networks (RNNs), and commonly-used variants such as GRUs and LSTMs.
 	- Apply sequence models to natural language problems, including text synthesis. 
 	- Apply sequence models to audio applications, including speech recognition and music synthesis.
