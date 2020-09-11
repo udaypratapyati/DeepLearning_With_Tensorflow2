@@ -1,0 +1,31 @@
+Q1: model = Sequential([
+    Dense(64, input_shape=(16, 4)), 
+    Flatten(), 
+    Dense(2)
+])
+model.compile(optimizer=‘rmsprop’, loss=‘mean_squared_error’, metrics=[‘mae’, ‘mape’])
+model.fit(X_train, y_train, epochs=10)
+
+What should the shapes of X_test and y_test be in the following model evaluation?
+
+model.evaluate(X_test, y_test)
+
+Ans: (num_test_samples,16,4),(num_test_samples,2)
+
+Q2: What will be returned by the call to model.evaluate?
+ANs: (loss, mean absolute error, mean absolute percentage error) evaluated on test set.
+
+Q3: What should the shape of X_sample be in a call to model.predict(X_sample)?
+Ans: (num_samples,16,4)
+
+Q4: If X_sample has shape (10, 16, 4), what will be the output shape of model.predict(X_sample)?
+Ans: (10,2)
+
+Q5: What should p1 and p2 be to ensure a 60/20/20 training/validation/test split?
+
+from sklearn.model_selection import train_test_split
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=p1)
+model.fit(X_train, y_train, validation_split=p2)
+
+Ans: p1 = 0.2, p2 = 0.25
+Correct, well done! We take 20% as the test data (p1) and then take 25% of the remaining 80% of the data (p2) for validation

@@ -1,0 +1,21 @@
+## Further reading and resources 
+https://keras.io/initializers/
+https://www.tensorflow.org/versions/r2.0/api_docs/python/tf/keras/initializers
+
+## Further reading and resources
+https://keras.io/metrics/
+https://github.com/keras-team/keras/blob/master/keras/metrics.py
+
+## Further reading and resources
+https://keras.io/layers/normalization/
+https://www.tensorflow.org/versions/r2.0/api_docs/python/tf/keras/layers/BatchNormalization
+
+## Further reading and resources
+https://www.tensorflow.org/guide/keras/custom_callback
+https://www.tensorflow.org/api_docs/python/tf/keras/callbacks/Callback
+
+## Further reading and resources
+https://keras.io/callbacks/
+https://www.tensorflow.org/api_docs/python/tf/keras/callbacks/LearningRateScheduler
+https://www.tensorflow.org/api_docs/python/tf/keras/callbacks/CSVLogger
+https://www.tensorflow.org/api_docs/python/tf/keras/callbacks/LambdaCallback
