@@ -1,0 +1,12 @@
+There are actually a few ways of saving and loading models TensorFllow such as only saving the parameters or the weights of a model 
+or saving the entire model including the architecture. You can also save the architecture only without the weights.
+
+As well as that you'll see how you can include model saving as part of the training run which of course is really useful 
+in case the training gets interrupted for some reason and you want to restart it 
+but you can also do some more sophisticated things like saving a model depending on certain performance measures.
+
+As you might expect from what you saw previously 
+we can use callbacks to do this for us and there's a built-in call back TensorFlow just for this purpose.
+
+Finally as well as saving and loading your own models, you'll see that there are many pre-trained TensorFlow models 
+that can be downloaded and used in your applications.
