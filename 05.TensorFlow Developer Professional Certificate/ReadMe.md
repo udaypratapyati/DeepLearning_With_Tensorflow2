@@ -15,4 +15,4 @@ TensorFlow is one of the most in-demand and popular open-source deep learning fr
 
 ### [03. Natural Language Processing in TensorFlow](https://github.com/udaypratapyati/DeepLearning_With_Tensorflow2/tree/master/05.TensorFlow%20Developer%20Professional%20Certificate/03.NaturalLanguageProcessing)
 
-### [04. Sequences, Time Series and Prediction]()
+### [04. Sequences, Time Series and Prediction](https://github.com/udaypratapyati/DeepLearning_With_Tensorflow2/tree/master/05.TensorFlow%20Developer%20Professional%20Certificate/04.TimeSeries)
