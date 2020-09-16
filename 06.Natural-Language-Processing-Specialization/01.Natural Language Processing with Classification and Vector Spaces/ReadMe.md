@@ -11,3 +11,14 @@
 - Feature extraction
 - Vocabulary creation
 - Supervised learning
+
+### Week 2
+- Error analysis
+- Naive Bayes inference
+- Log likelihood
+- Laplacian smoothing
+- conditional probabilities
+- Bayes rule
+- Sentiment analysis
+- Vocabulary creation
+- Supervised learning
