@@ -22,3 +22,13 @@
 - Sentiment analysis
 - Vocabulary creation
 - Supervised learning
+
+### Week 3
+- Covariance matrices
+- Dimensionality reduction
+- Principal component analysis
+- Cosine similarity
+- Euclidean distance
+- Co-occurrence matrices
+- Vector representations
+- Vector space models
