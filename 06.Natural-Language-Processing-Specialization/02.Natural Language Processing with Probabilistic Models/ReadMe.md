@@ -1,4 +1,4 @@
-### Natural Language Processing with Probabilistic Models
+## Natural Language Processing with Probabilistic Models
 - Create a simple auto-correct algorithm using minimum edit distance and dynamic programming,
 - Apply the Viterbi Algorithm for part-of-speech (POS) tagging, which is important for computational linguistics.
 - Write a better auto-complete algorithm using an N-gram language model.
