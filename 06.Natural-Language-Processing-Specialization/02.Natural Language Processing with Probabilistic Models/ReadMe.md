@@ -11,3 +11,12 @@ Build your own spellchecker to correct misspelled words!
 - Dynamic programming
 - Minimum edit distance
 - Autocorrect
+
+### Week 2
+Markov chains and Hidden Markov models, to create part-of-speech tags for a Wall Street Journal text corpus!
+- Markov chains
+- Hidden Markov models
+- Part-of-speech tagging
+- Viterbi algorithm
+- Transition probabilities
+- Emission probabilities
