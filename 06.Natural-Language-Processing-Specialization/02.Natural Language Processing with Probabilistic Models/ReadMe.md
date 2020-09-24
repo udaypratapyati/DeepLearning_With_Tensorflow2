@@ -20,3 +20,15 @@ Markov chains and Hidden Markov models, to create part-of-speech tags for a Wall
 - Viterbi algorithm
 - Transition probabilities
 - Emission probabilities
+
+### Week 3
+How N-gram language models work by calculating sequence probabilities.
+Build autocomplete language model using a text corpus from Twitter!
+- Conditional probabilities
+- Text pre-processing
+- Language modeling
+- Perplexity
+- K-smoothing
+- N-grams
+- Backoff
+- Tokenization
