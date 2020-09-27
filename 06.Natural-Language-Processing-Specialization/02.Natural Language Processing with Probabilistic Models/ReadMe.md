@@ -32,3 +32,15 @@ Build autocomplete language model using a text corpus from Twitter!
 - N-grams
 - Backoff
 - Tokenization
+
+### Week 4
+How word embeddings carry the semantic meaning of words, which makes them much more powerful for NLP tasks.
+Build Continuous bag-of-words model to create word embeddings from Shakespeare text.
+- Gradient descent
+- One-hot vectors
+- Neural networks
+- Word embeddings
+- Continuous bag-of-words model
+- Text pre-processing
+- Tokenization
+- Data generators
