@@ -18,3 +18,9 @@ As AI continues to expand, so will the demand for professionals skilled at build
 - Apply the Viterbi Algorithm for part-of-speech (POS) tagging, which is important for computational linguistics,
 - Write a better auto-complete algorithm using an N-gram language model, and 
 - Write your own Word2Vec model that uses a neural network to compute word embeddings using a continuous bag-of-words model.
+
+### [03. Natural Language Processing with Sequence Models]
+- Train a neural network with GLoVe word embeddings to perform sentiment analysis of tweets.
+- Generate synthetic Shakespeare text using a Gated Recurrent Unit (GRU) language model.
+- Train a recurrent neural network to perform named entity recognition (NER) using LSTMs with linear layers.
+- Use so-called ‘Siamese’ LSTM models to compare questions in a corpus and identify those that are worded differently but have the same meaning.
