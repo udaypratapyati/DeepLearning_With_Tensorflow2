@@ -14,3 +14,10 @@ Build a sophisticated tweet classifier that places tweets into positive or negat
 - Python classes
 - Trax
 - Neural networks
+
+### Week 2
+Limitations of traditional language models and how RNNs and GRUs use sequential data for text prediction. 
+Build next-word generator using a simple RNN on Shakespeare text data!
+- N-grams
+- Gated recurrent units
+- Recurrent neural networks
