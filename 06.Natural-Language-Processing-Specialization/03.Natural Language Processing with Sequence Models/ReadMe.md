@@ -21,3 +21,14 @@ Build next-word generator using a simple RNN on Shakespeare text data!
 - N-grams
 - Gated recurrent units
 - Recurrent neural networks
+
+### Week 3
+How long short-term memory units (LSTMs) solve the vanishing gradient problem,
+How Named Entity Recognition systems quickly extract important information from text. 
+Build Named Entity Recognition system using an LSTM and data from Kaggle!
+- Vanishing gradients
+- Named entity recognition
+- LSTMs
+- Feature extraction
+- Part-of-speech tagging
+- Data generators
