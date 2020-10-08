@@ -32,3 +32,12 @@ Build Named Entity Recognition system using an LSTM and data from Kaggle!
 - Feature extraction
 - Part-of-speech tagging
 - Data generators
+
+### Week 4
+Siamese networks, a special type of neural network made of two identical networks that are eventually merged together.
+Build Siamese network that identifies question duplicates in a dataset from Quora.
+- One shot learning
+- Triplet loss
+- Cosine similarity
+- Siamese networks
+- Data generators
