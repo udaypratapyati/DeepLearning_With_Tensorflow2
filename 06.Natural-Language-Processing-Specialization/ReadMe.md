@@ -24,3 +24,9 @@ As AI continues to expand, so will the demand for professionals skilled at build
 - Generate synthetic Shakespeare text using a Gated Recurrent Unit (GRU) language model.
 - Train a recurrent neural network to perform named entity recognition (NER) using LSTMs with linear layers.
 - Use so-called ‘Siamese’ LSTM models to compare questions in a corpus and identify those that are worded differently but have the same meaning.
+
+### [04. Natural Language Processing with Attention Models]()
+- Translate complete English sentences into German using an encoder-decoder attention model.
+- Build a Transformer model to summarize text. 
+- Use T5 and BERT models to perform question-answering.
+- Build a chatbot using a Reformer model.
