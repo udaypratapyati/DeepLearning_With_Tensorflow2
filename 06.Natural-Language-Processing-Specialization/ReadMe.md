@@ -25,7 +25,7 @@ As AI continues to expand, so will the demand for professionals skilled at build
 - Train a recurrent neural network to perform named entity recognition (NER) using LSTMs with linear layers.
 - Use so-called ‘Siamese’ LSTM models to compare questions in a corpus and identify those that are worded differently but have the same meaning.
 
-### [04. Natural Language Processing with Attention Models]()
+### [04. Natural Language Processing with Attention Models](https://github.com/udaypratapyati/DeepLearning_With_Tensorflow2/tree/master/06.Natural-Language-Processing-Specialization/04.Natural%20Language%20Processing%20with%20Attention%20Models)
 - Translate complete English sentences into German using an encoder-decoder attention model.
 - Build a Transformer model to summarize text. 
 - Use T5 and BERT models to perform question-answering.
