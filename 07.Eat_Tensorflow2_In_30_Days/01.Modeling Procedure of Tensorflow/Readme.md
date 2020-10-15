@@ -8,3 +8,10 @@
 - Model Training
 - Model Evaluation
 - Model Saving
+
+### 02.Modeling Procedure for Images 
+- Data Preparation
+- Model Definition
+- Model Training
+- Model Evaluation
+- Model Saving
