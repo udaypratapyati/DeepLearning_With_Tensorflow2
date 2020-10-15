@@ -15,3 +15,10 @@
 - Model Training
 - Model Evaluation
 - Model Saving
+
+### 03.Modeling Procedure for Texts
+- Data Preparation
+- Model Definition
+- Model Training
+- Model Evaluation
+- Model Saving
