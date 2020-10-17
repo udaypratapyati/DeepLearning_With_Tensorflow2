@@ -22,3 +22,11 @@
 - Model Training
 - Model Evaluation
 - Model Saving
+
+### 04.Modeling Procedure for Temporal Sequences
+- Data Preparation
+- Model Definition
+- Model Training
+- Model Evaluation
+- Model Application
+- Model Saving
